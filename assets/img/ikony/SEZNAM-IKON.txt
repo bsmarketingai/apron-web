@@ -1,0 +1,89 @@
+Ikony podkategorií pro rozbalovací menu (SVG, čtverec, ideálně 104×104 px nebo vektor).
+Ulož je do této složky s přesně tímto názvem – na webu se pak zobrazí automaticky místo šedého rámečku.
+
+## Pilové Kotouče
+pilove-kotouce-ze-slinuteho-karbidu.svg   – SK pilové kotouče
+pilove-kotouce-na-drevo-rozvedene-ostrene.svg   – Pilové kotouče na dřevo
+diamantove-pilove-kotouce-pkd.svg   – Diamantové kotouče - PKD
+kotouce-do-krovinorezu.svg   – Kotouče do křovinořezu
+pilove-kotouce-na-kov.svg   – Pilové kotouče na kov
+prislusenstvi-pro-pilove-kotouce.svg   – Příslušenství pro pilové kotouče
+
+## Frézovací Nástroje
+frezy-lamelovaci-a-zasmolkovaci.svg   – Frézy lamelovací a zásmolkovací
+frezy-drazkovaci-cepovaci.svg   – Frézy drážkovací, čepovací
+frezy-falcovaci-hoblovaci.svg   – Frézy falcovací, hoblovací
+frezy-uhlove-radiusove.svg   – Frézy úhlové, rádiusové
+frezovaci-hlavy.svg   – Frézovací hlavy
+frezy-na-spoje.svg   – Frézy na spoje
+frezy-na-dvirka-a-dvere.svg   – Frézy na dvířka a dveře
+frezy-na-okna.svg   – Frézy na okna
+nahradni-dily-k-frezam.svg   – Příslušenství a náhradní díly
+
+## Listy A Pásy
+pilove-pasy-na-drevo.svg   – Pilové pásy na dřevo
+pilove-pasy-na-kov.svg   – Pilové pásy na kov
+pilove-listy-na-drevo.svg   – Pilové listy na dřevo
+pilove-listy-na-kov.svg   – Pilové listy na kov
+listy-pro-strojni-ramove-pily-katry.svg   – Strojní rámové pily - Katry
+rucni-pilove-listy-kmitos.svg   – Ruční pilové listy KMITOS
+pilove-listy-do-ocasky.svg   – Pilové listy do ocasky
+uchylkomery-a-pripravky-na-rozvod.svg   – Úchylkoměry a přípravky na rozvod
+
+## Nože
+hoblovaci-noze-a-blankety.svg   – Hoblovací nože a blankety
+profilove-noze.svg   – Profilové nože
+vbd-vymenne-britove-desticky.svg   – VBD - výměnné břitové destičky
+nahradni-vymenne-noze-a-ziletky.svg   – Náhradní výměnné nože a žiletky
+
+## Stopkové Nástroje
+vrtaky.svg   – Vrtáky
+frezy-pajene.svg   – Frézy pájené
+frezy-s-vbd-ziletkove.svg   – Frézy s VBD - žiletkové
+diamantove-nastroje.svg   – Diamantové nástroje
+spiralove-monolitni-frezy.svg   – Spirálové frézy
+redukce-a-pouzdra.svg   – Redukce a pouzdra
+prislusenstvi.svg   – Příslušenství
+
+## Cnc Nástroje
+cnc-frezy-s-vbd.svg   – CNC Frézy s VBD
+cnc-frezy-diamantove.svg   – CNC Frézy diamantové
+cnc-frezy-spiralove.svg   – CNC Frézy spirálové
+cnc-frezy-modelarske.svg   – CNC Frézy modelářské
+cnc-upinaci-systemy.svg   – CNC Upínací systémy
+prislusenstvi-k-cnc-frezam-a-nahradni-vbd-desticky.svg   – CNC Příslušenství
+
+## Ruční Nářadí
+rucni-pily.svg   – Ruční pily
+rucni-naradi-do-dilny.svg   – Dílenské nářadí
+ostatni.svg   – Ostatní
+
+## Truhlářské Přípravky
+truhlarske-sverky-a-rychloupinaky.svg   – Truhlářské svěrky
+pravitka-prilozniky-meridla.svg   – Pravítka, příložníky, měřidla
+sablony-a-vodici-listy.svg   – Šablony a vodící lišty
+
+## Chemie
+cistice.svg   – Čističe
+kluziva.svg   – Kluziva
+lepidla.svg   – Lepidla
+chladici-kapaliny.svg   – Chladící kapaliny
+lnene-oleje.svg   – Lněné oleje
+
+## Stroje, Elektronářadí
+rucni-elektronaradi.svg   – Ruční elektronářadí
+truhlarske-stroje.svg   – Truhlářské stroje
+pily-na-kov.svg   – Pily na kov
+prislusenstvi-pro-stroje.svg   – Příslušenství
+
+## Ostatní
+ochranne-pomucky.svg   – Ochranné pomůcky
+brusivo.svg   – Brusivo
+spojovaci-material.svg   – Spojovací materiál
+prislusenstvi.svg   – Příslušenství
+
+## Výprodej
+frezovaci-nastroje.svg   – Frézovací nástroje
+noze.svg   – Nože
+rucni-naradi.svg   – Ruční nářadí
+stopkove-nastroje.svg   – Stopkové nástroje
